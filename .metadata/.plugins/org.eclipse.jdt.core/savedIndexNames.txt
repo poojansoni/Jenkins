@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+D:\2021 Companies\HSBC\Devops\Jenkins\.metadata\.plugins\org.eclipse.jdt.core
-1991655398.index
